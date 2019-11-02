@@ -111,7 +111,6 @@ public class Planet {
     public void setResidents(String[] residents) {
 			this.residents = residents;
     }
-    
     public String getClimate() {
  		return climate;
  	}
@@ -119,6 +118,8 @@ public class Planet {
  	public void setClimate(String climate) {
  		this.climate = climate;
  	}
+
+
 
     
 
